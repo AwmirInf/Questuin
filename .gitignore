@@ -58,3 +58,7 @@ node_modules/
 
 # Windows Installer files
 *.pdb
+# .NET Core
+project.assets.json
+project.nuget.cache
+*.nuget.dgspec.json
