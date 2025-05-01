@@ -1,0 +1,60 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugTests/
+[Dd]istTests/
+x64/
+x86/
+[Aa]rmeabi/
+[Aa]rmeabi-v7a/
+[Aa]rchive/
+
+# User-specific files
+.idea/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+
+# User-specific files
+*.app
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM packages
+node_modules/
+
+# MacOS
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Microsoft Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.pdb
