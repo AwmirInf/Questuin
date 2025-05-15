@@ -35,6 +35,7 @@ ehthumbs.db
 *.exe
 *.dll
 *.lib
+*/obj/
 
 # User-specific files
 *.app
